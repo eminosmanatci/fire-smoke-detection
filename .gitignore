@@ -1,0 +1,21 @@
+# Firebase Secret Key (CRITICAL)
+*.json
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE Settings
+.idea/
+.vscode/
+
+# Datasets and Model Weights (Too large for GitHub)
+datasets/
+runs/
+Sonuclar/
+*.pt
+*.onnx
+
+# Python Cache
+__pycache__/
+*.pyc
